@@ -1,4 +1,4 @@
-#include "game.h"
+#include "Game.h"
 
 //Initializing Variables
 void Game::initVariables()
